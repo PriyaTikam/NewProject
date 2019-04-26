@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="142" started-at="2019-04-26T09:58:25Z" finished-at="2019-04-26T09:58:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="142" started-at="2019-04-26T09:58:25Z" finished-at="2019-04-26T09:58:25Z">
+      <class name="pac1.Name">
+        <test-method status="PASS" signature="T()[pri:0, instance:pac1.Name@4f4a7090]" name="T" duration-ms="30" started-at="2019-04-26T09:58:25Z" finished-at="2019-04-26T09:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T -->
+      </class> <!-- pac1.Name -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
